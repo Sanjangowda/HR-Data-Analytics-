@@ -16,7 +16,12 @@ This project visulize the sales data of a employees over past 3 months for the y
 - In which day of the week, employees take the more SL
 ---
 
-Try this with following steps:
+## Pictures
+<img width="1920" height="1200" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/6300312d-1a83-446b-a2e9-34d9410cf074" />
+
+---
+
+Try this project with following steps:
 > STEP 1:
 - Download the CSV (Excel sheet) from the repository
 - Transform the data according to the requirements 
